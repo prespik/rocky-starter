@@ -1,0 +1,29 @@
+{
+  "name": "rocky-starter",
+  "version": "1.0.0",
+  "description": "Simple web starter kit for web developers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epestanamx/rocky-starter.git"
+  },
+  "author": "Ernesto Pestaña <epestanamx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epestanamx/rocky-starter/issues"
+  },
+  "homepage": "https://github.com/epestanamx/rocky-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-include": "^2.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
